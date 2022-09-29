@@ -24,18 +24,28 @@
 - 엔드포인트로 접속해보면 1번사이트가 잘 열린다. 
 - 이제 2번째 사이트, 3번째 사이트를 위한 원본그룹을 생성하면 된다.
 - 원본그룹 탭으로 가서 추가를 누르면 아래와 같은 화면이 나온다. 이미 만들어진 상태지만, 원본추가 버튼을 누른다. 
-- ![image](https://user-images.githubusercontent.com/98098974/193057904-1b238935-e44f-4c35-a169-09c53ecab167.png)
+ ![image](https://user-images.githubusercontent.com/98098974/193057904-1b238935-e44f-4c35-a169-09c53ecab167.png)
 - 2번째 사이트는 스토리지 Blob 정적웹이므로 "스토리지(정적 웹사이트)" 를 선택하고 생성한 스토리지를 선택하면 된다. 
-- ![image](https://user-images.githubusercontent.com/98098974/193058325-138dc8fd-471f-46fd-8e70-9d8eb561fd78.png)
+ ![image](https://user-images.githubusercontent.com/98098974/193058325-138dc8fd-471f-46fd-8e70-9d8eb561fd78.png)
 - 동일한 작업으로 3번째 원본그룹도 생성하고 원본은 앱서비스를 선택해서 만들어 준다 
-- ![image](https://user-images.githubusercontent.com/98098974/193058707-741fda27-b227-4a42-ac97-5caee4eca49f.png)
+ ![image](https://user-images.githubusercontent.com/98098974/193058707-741fda27-b227-4a42-ac97-5caee4eca49f.png)
 - 2번째 3번째 원본그룹에 경로를 연결할 필요는 없다. 아래 화면 처럼 
-- ![image](https://user-images.githubusercontent.com/98098974/193059001-f3377572-e77a-4862-a8c6-e89a8596c585.png)
+ ![image](https://user-images.githubusercontent.com/98098974/193059001-f3377572-e77a-4862-a8c6-e89a8596c585.png)
 - 이제 규칙집합 탭으로 가서 규칙집합을 생성 해준다. 
-- ![image](https://user-images.githubusercontent.com/98098974/193059493-aa868434-4bf9-42ad-b0ad-faf668cc3868.png)
+ ![image](https://user-images.githubusercontent.com/98098974/193059493-aa868434-4bf9-42ad-b0ad-faf668cc3868.png)
 - 확장자명이 html이면 2번째 원본그룹으로 보내고, 접속 디바이스가 모바일이면 3번째 그룹으로 보내도록 설정하고 저장한다. 
-- ![image](https://user-images.githubusercontent.com/98098974/193059665-f954e6eb-bae5-4d69-a159-fbdf886dc5dc.png)
+ ![image](https://user-images.githubusercontent.com/98098974/193059665-f954e6eb-bae5-4d69-a159-fbdf886dc5dc.png)
 - 그 후 경로연결을 눌러 default-route 경로와 룰셋을 연결 해준다. 
-- ![image](https://user-images.githubusercontent.com/98098974/193059911-50d444cc-444a-4b26-b3dc-2f40364c8e9d.png)
+ ![image](https://user-images.githubusercontent.com/98098974/193059911-50d444cc-444a-4b26-b3dc-2f40364c8e9d.png)
 - 이제 접속 테스트를 해보자
+### 접속 테스트 
+1. https://ep-test01-gthjcvg7g5hxhudz.z01.azurefd.net/ 을 입력 
+![image](https://user-images.githubusercontent.com/98098974/193060516-5f560da9-415f-4799-9eae-1150895ff318.png)
+2. https://ep-test01-gthjcvg7g5hxhudz.z01.azurefd.net/index.html 을 입력
+![image](https://user-images.githubusercontent.com/98098974/193060821-febb702a-7a30-40b4-b30f-3a74dfaff83d.png)
+3. 핸드폰에서 접속 https://ep-test01-gthjcvg7g5hxhudz.z01.azurefd.net/ 
+![image](https://user-images.githubusercontent.com/98098974/193061364-15b478f0-c6a7-4219-95da-603cc1b77e6c.png)
+
+
+
 
