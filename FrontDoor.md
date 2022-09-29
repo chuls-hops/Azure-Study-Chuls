@@ -32,7 +32,8 @@
 - 2번째 3번째 원본그룹에 경로를 연결할 필요는 없다. 아래 화면 처럼 
  ![image](https://user-images.githubusercontent.com/98098974/193059001-f3377572-e77a-4862-a8c6-e89a8596c585.png)
 - 이제 규칙집합 탭으로 가서 규칙집합을 생성 해준다. 
- ![image](https://user-images.githubusercontent.com/98098974/193059493-aa868434-4bf9-42ad-b0ad-faf668cc3868.png)
+![image](https://user-images.githubusercontent.com/98098974/193061913-0fe2f1bf-4026-448b-886e-3a3d8ed7775a.png)
+
 - 확장자명이 html이면 2번째 원본그룹으로 보내고, 접속 디바이스가 모바일이면 3번째 그룹으로 보내도록 설정하고 저장한다. 
  ![image](https://user-images.githubusercontent.com/98098974/193059665-f954e6eb-bae5-4d69-a159-fbdf886dc5dc.png)
 - 그 후 경로연결을 눌러 default-route 경로와 룰셋을 연결 해준다. 
