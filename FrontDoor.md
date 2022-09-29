@@ -40,11 +40,11 @@
  ![image](https://user-images.githubusercontent.com/98098974/193059911-50d444cc-444a-4b26-b3dc-2f40364c8e9d.png)
 - 이제 접속 테스트를 해보자
 ### 접속 테스트 
-- 1. https://ep-test01-gthjcvg7g5hxhudz.z01.azurefd.net/ 을 입력 
+##### 1. https://ep-test01-gthjcvg7g5hxhudz.z01.azurefd.net/ 을 입력 
 ![image](https://user-images.githubusercontent.com/98098974/193060516-5f560da9-415f-4799-9eae-1150895ff318.png)
-- 2. https://ep-test01-gthjcvg7g5hxhudz.z01.azurefd.net/index.html 을 입력
+##### 2. https://ep-test01-gthjcvg7g5hxhudz.z01.azurefd.net/index.html 을 입력
 ![image](https://user-images.githubusercontent.com/98098974/193060821-febb702a-7a30-40b4-b30f-3a74dfaff83d.png)
-- 3. 핸드폰에서 접속 https://ep-test01-gthjcvg7g5hxhudz.z01.azurefd.net/ 
+##### 3. 핸드폰에서 접속 https://ep-test01-gthjcvg7g5hxhudz.z01.azurefd.net/ 
 ![image](https://user-images.githubusercontent.com/98098974/193061364-15b478f0-c6a7-4219-95da-603cc1b77e6c.png)
 
 
